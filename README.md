@@ -42,7 +42,7 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 # Go
 * [lorca](https://github.com/zserge/lorca)
 * [wails](https://github.com/wailsapp/wails)
-* [muon](https://github.com/ImVexed/muon) (it uses ultralight which is a gpu based rendering engine and it combines it with go)
+* [muon](https://github.com/ImVexed/muon) (it bundles ultralight which is a gpu based rendering engine and it combines it with go to create gui's)
 
 # Java
 * [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
