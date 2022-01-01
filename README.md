@@ -72,11 +72,11 @@ https://www.androidpolice.com/2020/05/27/google-chats-desktop-application-is-now
 * [Wx](https://metacpan.org/pod/Wx)
 
 # Python
-* [PyQt](https://en.wikipedia.org/wiki/PyQt)
-* [Kivy](https://kivy.org/#home)
+* [PyQt](https://en.wikipedia.org/wiki/PyQt) (qt bindings for python)
+* [Kivy](https://kivy.org/#home) (kivy is a cross-platform tool to create gui's using python it can also compile to mobile)
 * [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui)
 * [wxPython](https://wxpython.org/)
-* [Tkinter](https://docs.python.org/2/library/tkinter.html)
+* [Tkinter](https://docs.python.org/2/library/tkinter.html) (tkinter is a in-built python library to create apps using python qt apps require python to run and can also be compiled as an executable by using tools like pyinstaller)
 * [pywebview](https://github.com/r0x0r/pywebview)
 
 # Ruby
